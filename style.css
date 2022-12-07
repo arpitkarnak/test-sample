@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Kenia&family=Rubik+Distressed&display=swap");
+
+* {
+  font-family: "Kenia", cursive;
+}
+
+:root {
+  --primary-color: red;
+}
+
+h1 {
+  color: var(--primary-color);
+}
+
+#output {
+  margin-top: 2rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
